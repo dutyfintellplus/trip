@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 3/0//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension
+	version="3.0"
+	type="template"
+	client="site"> 
+	<name>trip</name>
+	<version>1.0</version>
+	<creationDate>12/12/12</creationDate>
+	<author>Svetlana Sokolova</author>
+	<authorEmail></authorEmail>
+	<authorUrl>http://likbez-net.ru</authorUrl>
+	<copyright>GNU/GPL</copyright>
+	<description>simple_template_for_studing</description>
+		<files>
+		<folder>css</folder>
+		<folder>images</folder>
+		<filename>index.php</filename>
+	</files>
+	<positions>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>header</position>
+		<position>left</position>
+		<position>right</position>
+		<position>footer</position>
+	</positions>
+</extension>
+
